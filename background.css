@@ -1,4 +1,5 @@
-  .hope-ui-light {
+<style>
+.hope-ui-light {
     background-image: url("url") !important;
     background-repeat: no-repeat;
     background-size: cover;
@@ -13,3 +14,4 @@
     background-attachment: fixed;
     background-position-x: center;
   }
+</style>
